@@ -1,0 +1,1 @@
+simulador de BoardGame para AS estrutura de dados
